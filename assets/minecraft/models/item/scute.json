@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/scute"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/symbols/usm_logo"},
+		{"predicate": {"custom_model_data":2}, "model": "item/letters/letter_u"},
+		{"predicate": {"custom_model_data":3}, "model": "item/letters/letter_n"},
+		{"predicate": {"custom_model_data":4}, "model": "item/letters/letter_i"},
+		{"predicate": {"custom_model_data":5}, "model": "item/letters/letter_v"},
+		{"predicate": {"custom_model_data":6}, "model": "item/letters/letter_e"},
+		{"predicate": {"custom_model_data":7}, "model": "item/letters/letter_r"},
+		{"predicate": {"custom_model_data":8}, "model": "item/letters/letter_s"},
+		{"predicate": {"custom_model_data":9}, "model": "item/letters/letter_d"},
+		{"predicate": {"custom_model_data":10}, "model": "item/letters/letter_a"},
+		{"predicate": {"custom_model_data":11}, "model": "item/letters/letter_t"},
+		{"predicate": {"custom_model_data":12}, "model": "item/letters/letter_e"},
+		{"predicate": {"custom_model_data":13}, "model": "item/letters/letter_c"},
+		{"predicate": {"custom_model_data":14}, "model": "item/letters/letter_f"},
+		{"predicate": {"custom_model_data":15}, "model": "item/letters/letter_o"},
+		{"predicate": {"custom_model_data":16}, "model": "item/letters/letter_m"}
+	]
+}

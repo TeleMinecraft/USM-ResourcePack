@@ -1,0 +1,60 @@
+{
+	"credit": "Made by TeleMinecraft (Storbo)",
+	"textures": {
+		"0": "item/junaeb/junaeb",
+		"particle": "item/junaeb/junaeb"
+	},
+	"elements": [
+		{
+			"name": "card",
+			"from": [0, 0, 7.5],
+			"to": [16, 8, 8.5],
+			"faces": {
+				"north": {"uv": [0.06331, 8.61998, 16, 15.61176], "texture": "#0"},
+				"east": {"uv": [8.89328, 9.84379, 9.81206, 10.85902], "texture": "#0"},
+				"south": {"uv": [0, 0.12045, 16, 8.18282], "texture": "#0"},
+				"west": {"uv": [8.01809, 10.1673, 8.97748, 10.89826], "texture": "#0"},
+				"up": {"uv": [8.75759, 9.68272, 9.65099, 10.6015], "texture": "#0"},
+				"down": {"uv": [8.48868, 9.56226, 9.58512, 10.44043], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [1.25, 4.25, -2.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [1.25, 4.25, -2.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [22.5, -157.5, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.9, 1, 1]
+		},
+		"head": {
+			"translation": [0, 10.4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 4, -1]
+		}
+	}
+}

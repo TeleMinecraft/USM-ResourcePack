@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/gold_ingot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "item/money/bills/bill_1000"},
+		{"predicate": {"custom_model_data":2000}, "model": "item/money/bills/bill_2000"},
+		{"predicate": {"custom_model_data":5000}, "model": "item/money/bills/bill_5000"},
+		{"predicate": {"custom_model_data":10000}, "model": "item/money/bills/bill_10000"},
+		{"predicate": {"custom_model_data":20000}, "model": "item/money/bills/bill_20000"}
+	]
+}

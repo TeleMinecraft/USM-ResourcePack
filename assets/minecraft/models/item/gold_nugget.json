@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/gold_nugget"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":10}, "model": "item/money/coins/coin_10"},
+		{"predicate": {"custom_model_data":50}, "model": "item/money/coins/coin_50"},
+		{"predicate": {"custom_model_data":100}, "model": "item/money/coins/coin_100"},
+		{"predicate": {"custom_model_data":500}, "model": "item/money/coins/coin_500"}
+	]
+}
