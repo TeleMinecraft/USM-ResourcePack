@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/ink_sac"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/atm/orange_panel"},
+		{"predicate": {"custom_model_data":2}, "model": "item/atm/gray_panel"},
+		{"predicate": {"custom_model_data":3}, "model": "item/atm/button"},
+		{"predicate": {"custom_model_data":4}, "model": "item/atm/right_arrow_panel"},
+		{"predicate": {"custom_model_data":5}, "model": "item/atm/text_panel"},
+		{"predicate": {"custom_model_data":6}, "model": "item/atm/left_arrow_panel"}
+	]
+}

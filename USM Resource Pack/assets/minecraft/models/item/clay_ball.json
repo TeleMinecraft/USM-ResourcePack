@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/clay_ball"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/sculpture/usm_sculpted_stone"}
+	]
+}

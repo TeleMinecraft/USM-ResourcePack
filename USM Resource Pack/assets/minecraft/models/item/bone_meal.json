@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/bone_meal"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/recycling_bins/plastic_recycling_bin"},
+		{"predicate": {"custom_model_data":2}, "model": "item/recycling_bins/glass_recycling_bin"},
+		{"predicate": {"custom_model_data":3}, "model": "item/recycling_bins/paper_recycling_bin"},
+		{"predicate": {"custom_model_data":4}, "model": "item/recycling_bins/cans_recycling_bin"}
+	]
+}

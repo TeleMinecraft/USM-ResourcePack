@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/copper_ingot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/atm/atm"},
+		{"predicate": {"custom_model_data":2}, "model": "item/ergon/ergon"}
+	]
+}

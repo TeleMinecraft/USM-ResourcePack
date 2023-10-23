@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/floor/concrete_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/floor/concrete"
+    },
+    "type=top": {
+      "model": "minecraft:block/floor/concrete_slab_top"
+    }
+  }
+}

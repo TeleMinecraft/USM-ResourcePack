@@ -1,0 +1,31 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true",
+		"south": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/outside_fences/white_fence_simple_ns"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+		"east": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/outside_fences/white_fence_simple_diagonal"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+		"west": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/outside_fences/white_fence_simple_ew"
+      }
+    }
+  ]
+}
