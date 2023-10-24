@@ -1,0 +1,21 @@
+{
+	"credit": "Made by TeleMinecraft (Storbo)",
+	"textures": {
+		"0": "block/white_concrete",
+		"particle": "block/white_concrete"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 16, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 10, 16], "texture": "#0"}
+			}
+		}
+	]
+}

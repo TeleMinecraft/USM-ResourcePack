@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/completos/completo_italiano"}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/tiles/usm_gray_tile"
+    }
+  }
+}

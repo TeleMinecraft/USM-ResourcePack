@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/cards/credential"},
+		{"predicate": {"custom_model_data":2}, "model": "item/cards/debit_card"},
+		{"predicate": {"custom_model_data":3}, "model": "item/cards/junaeb"}
+	]
+}

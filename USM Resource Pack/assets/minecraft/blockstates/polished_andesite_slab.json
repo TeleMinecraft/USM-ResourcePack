@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/tiles/usm_gray_tile_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/tiles/usm_gray_tile"
+    },
+    "type=top": {
+      "model": "minecraft:block/tiles/usm_gray_tile_slab_top"
+    }
+  }
+}
