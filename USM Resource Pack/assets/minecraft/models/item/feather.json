@@ -4,6 +4,9 @@
 		"layer0": "item/feather"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/doors/glass_door"}
+		{"predicate": {"custom_model_data":1}, "model": "item/doors/glass_door_ns_left"},
+		{"predicate": {"custom_model_data":2}, "model": "item/doors/glass_door_ns_right"},
+		{"predicate": {"custom_model_data":3}, "model": "item/doors/glass_door_ew_left"},
+		{"predicate": {"custom_model_data":4}, "model": "item/doors/glass_door_ew_right"}
 	]
 }
