@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/stairs/usm_black_tile_stairs",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/stairs/usm_black_tile_stairs",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/stairs/usm_black_tile_stairs"
+    },
+    "facing=west": {
+      "model": "minecraft:block/stairs/usm_black_tile_stairs",
+      "y": 90
+    }
+  }
+}
