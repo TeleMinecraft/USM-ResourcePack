@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/leather"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/furniture/inside/audience/red_chair_right"},
+		{"predicate": {"custom_model_data":2}, "model": "item/furniture/inside/audience/red_chair_middle"},
+		{"predicate": {"custom_model_data":3}, "model": "item/furniture/inside/audience/red_chair_left"},
+		{"predicate": {"custom_model_data":4}, "model": "item/furniture/inside/audience/dark_red_chair_right"},
+		{"predicate": {"custom_model_data":5}, "model": "item/furniture/inside/audience/dark_red_chair_middle"},
+		{"predicate": {"custom_model_data":6}, "model": "item/furniture/inside/audience/dark_red_chair_left"},
+		{"predicate": {"custom_model_data":7}, "model": "item/furniture/inside/audience/darkest_red_chair_right"},
+		{"predicate": {"custom_model_data":8}, "model": "item/furniture/inside/audience/darkest_red_chair_middle"},
+		{"predicate": {"custom_model_data":9}, "model": "item/furniture/inside/audience/darkest_red_chair_left"}
+	]
+}
