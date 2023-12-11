@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/potion"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/drinks"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/drinks"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/drinks"}
+	]
+}
